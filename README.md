@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Jimmy Yao!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom+to+my+Github+homepage;I'm+a+FullStack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+homepage;I'm+a+FullStack+Developer)](https://git.io/typing-svg)
 
 
 ## 🎉 A Few Quick Facts
