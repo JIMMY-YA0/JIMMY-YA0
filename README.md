@@ -8,8 +8,6 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
   <li>🔭 I use daily: React, Nodejs, Nextjs, JavaScript, etc.</li>
-  <li>🌱 I’m currently working on <a target="_blank" href="https://www.code.sydney/">Code.Sydney</a> as FullStack Developer.</li>
-  <li>🧐 I am currently learning the <a target="_blank" href="https://fullstackopen.com/en/">Full Stack Open</a> to reinforce my knowledge and I highly recommend it!</li>
   <li>👨‍💻 Most of my projects are available on <a target="_blank" href="https://github.com/JIMMY-YA0">Github</a>.</li>
   <li>💬 Ask me about anything <a target="_blank" href="https://github.com/JIMMY-YA0/JIMMY-YA0/issues">here!</a> I am happy to help.</li>
   <li>😄 Fun fact: Equal is Not Always Equal in Javascript.
