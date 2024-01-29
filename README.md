@@ -40,7 +40,4 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase)]()
 [![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)]()
 
-## 🚀 GitHub Stats（2023）
-
-[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIMMY-YA0&hide=stars&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
